@@ -1,0 +1,52 @@
+{
+  "baseForm": [{
+    "tbName": "AAA",
+    "remark": "A表"
+  }, {
+    "tbName": "BBB",
+    "remark": "B表"
+  }, {
+    "tbName": "CCC",
+    "remark": "C表"
+  }, {
+    "tbName": "DDD",
+    "remark": "D表"
+  }, {
+    "tbName": "EEE",
+    "remark": "E表"
+  }, {
+    "tbName": "FFF",
+    "remark": "F表"
+  }, {
+    "tbName": "GGG",
+    "remark": "G表"
+  }, {
+    "tbName": "HHH",
+    "remark": "H表"
+  }, {
+    "tbName": "III",
+    "remark": "I表"
+  }, {
+    "tbName": "JJJ",
+    "remark": "J表"
+  }, {
+    "tbName": "KKK",
+    "remark": "K表"
+  }, {
+    "tbName": "LLL",
+    "remark": "L表"
+  }, {
+    "tbName": "MMM",
+    "remark": "M表"
+  }, {
+    "tbName": "NNN",
+    "remark": "N表"
+  }, {
+    "tbName": "OOO",
+    "remark": "O表"
+  }, {
+    "tbName": "PPP",
+    "remark": "P表"
+  }],
+  "baseData": ["AAA", "BBB", "CCC", "DDD", "EEE", "FFF", "GGG", "HHH", "III", "JJJ", "KKK", "MMM", "NNN", "NNN"]
+}

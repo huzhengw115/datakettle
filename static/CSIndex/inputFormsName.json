@@ -1,0 +1,13 @@
+[{
+  "id":1,
+  "tbName":"user",
+  "remark":"用户表"
+},{
+  "id":2,
+  "tbName":"role",
+  "remark":"角色表"
+},{
+  "id":3,
+  "tbName":"menu",
+  "remark":"菜单表"
+}]

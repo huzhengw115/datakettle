@@ -1,0 +1,55 @@
+{
+  "base": [{
+    "server": {
+      "label": "IP地址",
+      "value": "127.0.0.1"
+    },
+    "database": {
+      "label": "数据库名",
+      "value": "kakaka"
+    },
+    "password": {
+      "label": "密码",
+      "value": "123456"
+    },
+    "port": {
+      "label": "端口号",
+      "value": "3306"
+    },
+    "type": {
+      "label": "数据库类型",
+      "value": "0",
+      "options": ["MySQL", "Oracle"]
+    },
+    "username": {
+      "label": "用户名",
+      "value": "user"
+    }
+  }, {
+    "server": {
+      "label": "IP地址",
+      "value": "127.0.0.1"
+    },
+    "database": {
+      "label": "数据库名",
+      "value": "kakaka"
+    },
+    "password": {
+      "label": "密码",
+      "value": "123456"
+    },
+    "port": {
+      "label": "端口号",
+      "value": "3306"
+    },
+    "type": {
+      "label": "数据库类型",
+      "value": "0",
+      "options": ["MySQL", "Oracle"]
+    },
+    "username": {
+      "label": "用户名",
+      "value": "user"
+    }
+  }]
+}

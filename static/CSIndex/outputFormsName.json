@@ -1,0 +1,13 @@
+[{
+  "id":12,
+  "tbName":"userrr",
+  "remark":"用户表"
+},{
+  "id":23,
+  "tbName":"roleee",
+  "remark":"角色表"
+},{
+  "id":34,
+  "tbName":"menuuu",
+  "remark":"菜单表"
+}]

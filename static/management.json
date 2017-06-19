@@ -1,0 +1,39 @@
+{
+  "index": [{
+    "id": 0,
+    "date": "信息资源1",
+    "name": "表名称1",
+    "source": "上海市普陀区金沙江路 1518 弄",
+    "mappingsTitle": "未映射",
+    "mappings": 0,
+    "isShow": 0,
+    "time": "2017年6月2日13:36:01"
+  }, {
+    "id": 1,
+    "date": "信息资源2",
+    "name": "表名称2",
+    "source": "上海市普陀区金沙江路 1518 弄",
+    "mappingsTitle": "已映射",
+    "mappings": 1,
+    "isShow": 0,
+    "time": "2017年6月2日13:36:01"
+  }, {
+    "id": 2,
+    "date": "信息资源3",
+    "name": "表名称3",
+    "source": "上海市普陀区金沙江路 1518 弄",
+    "mappingsTitle": "已映射",
+    "mappings": 1,
+    "isShow": 1,
+    "time": "2017年6月2日13:36:01"
+  }, {
+    "id": 3,
+    "date": "信息资源4",
+    "name": "表名称4",
+    "source": "上海市普陀区金沙江路 1518 弄",
+    "mappingsTitle": "未映射",
+    "mappings": 0,
+    "isShow": 0,
+    "time": "2017年6月2日13:36:01"
+  }]
+}

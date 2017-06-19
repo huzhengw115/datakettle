@@ -1,0 +1,13 @@
+[{
+  "id":1,
+  "colName":"username",
+  "fdZN":"用户名"
+},{
+  "id":2,
+  "colName":"password",
+  "fdZN":"密码"
+},{
+  "id":3,
+  "colName":"sex",
+  "fdZN":"性别"
+}]

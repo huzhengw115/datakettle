@@ -1,0 +1,14 @@
+{
+  "data": [{
+    "index": 1,
+    "title": "A <=> B",
+    "input": {
+      "value": "A",
+      "fields": ["name", "password", "tel"]
+    },
+    "output": {
+      "value": "B",
+      "fields": ["user_name", "user_password", "user_tel"]
+    }
+  }]
+}
